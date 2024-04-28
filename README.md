@@ -3,8 +3,6 @@ Model reference : https://urldefense.com/v3/__https:/github.com/microsoft/Swin-T
  Python package installer
   ----
       Package                      VersionNote: you may need to restart the kernel to use updated packages.
-
----------------------------- --------------
 absl-py                      2.1.0
 addict                       2.4.0
 albumentations               1.4.2
@@ -216,4 +214,3 @@ win-inet-pton                1.1.0
 wrapt                        1.16.0
 yapf                         0.40.2
 zipp                         3.18.1
----
