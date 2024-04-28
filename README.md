@@ -1,6 +1,10 @@
 DataSet: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
 
 Model reference : https://urldefense.com/v3/__https:/github.com/microsoft/Swin-Transformer__;!!IKRxdwAv5BmarQ!dHp6BAh8ZSKCR1CiuZWiQnDrUyOFbrt9YUufneW8m8PepI_LFHEjvHWpVt82ZCKqsNU93yoRJRdzk4AYFFws3KgTUCA9hL4$
+
+Input_image: ![image](https://github.com/kartikpandit712/SwinV2_for_ObjectDetection/assets/94665227/12aa9565-4ebd-494f-8443-010aedee2311)
+
+
 output_image: ![image](https://github.com/kartikpandit712/SwinV2_for_ObjectDetection/assets/94665227/1437321f-44de-4d3d-99a6-debf05972697)
 
  Python package installer
