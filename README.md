@@ -4,7 +4,8 @@ Model reference : https://urldefense.com/v3/__https:/github.com/microsoft/Swin-T
 
 Input :
 
-output:![Uploading image.png…]()
+check output in the output.txt
+
 
 
  Python package installer
