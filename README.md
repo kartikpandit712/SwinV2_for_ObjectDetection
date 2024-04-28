@@ -5,7 +5,8 @@ Model reference : https://urldefense.com/v3/__https:/github.com/microsoft/Swin-T
  Python package installer
 
       Package                      VersionNote: you may need to restart the kernel to use updated packages.
-//absl-py                      2.1.0
+absl-py                      2.1.0
+
 addict                       2.4.0
 albumentations               1.4.2
 aliyun-python-sdk-core       2.15.0
