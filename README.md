@@ -1,7 +1,9 @@
 DataSet: https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data
+
 Model reference : https://urldefense.com/v3/__https:/github.com/microsoft/Swin-Transformer__;!!IKRxdwAv5BmarQ!dHp6BAh8ZSKCR1CiuZWiQnDrUyOFbrt9YUufneW8m8PepI_LFHEjvHWpVt82ZCKqsNU93yoRJRdzk4AYFFws3KgTUCA9hL4$
+
  Python package installer
-  ----
+
       Package                      VersionNote: you may need to restart the kernel to use updated packages.
 absl-py                      2.1.0
 addict                       2.4.0
